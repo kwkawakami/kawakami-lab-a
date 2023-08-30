@@ -1,0 +1,42 @@
+p{
+    color: gray;
+    font-size: 30;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 150px;
+    border-radius: 20px;
+}   
+
+button{
+    background-color: black;
+    color: gray;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: gray;
+
+}
+
+button:active{
+    background-color: grey;
+}
+
+body{
+    background-color: black;
+}
+
+#note{
+    background-color: rgb(45, 45, 45);
+    width: 700px;
+    margin: 100px auto 100px auto;
+    padding: 30px 40px 20px 40px;
+    border-radius: 20px;
+
+}
